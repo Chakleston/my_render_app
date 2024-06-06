@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-pandas
-scipy
-streamlit
+pandas==1.3.1
+scipy==1.6.2
+streamlit==1.12.2
 =======
-
->>>>>>> 4dceff39783af3064baace62a6b16496c2c4922b
+# Alguna otra versión o cambios en la rama remota
+>>>>>>> [commit-hash]
