@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 pandas
 scipy
 streamlit
+=======
+
+>>>>>>> 4dceff39783af3064baace62a6b16496c2c4922b
